@@ -1,0 +1,2 @@
+# Notation
+This file is created just for my personal and noncommercial use, and I will upload some code solution that I've done to this repository. I paid the course on the Udemy, so if someone wannt to participate in the course that I've taken, just make you owm decision. Of course, I'm new to Python and only have a few fumdemental C syntax knowing, so hope I could finish my leaning in 100 days :)
